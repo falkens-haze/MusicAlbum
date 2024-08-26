@@ -1,6 +1,6 @@
 module albumService
 
-go 1.23.0
+go 1.23
 
 require (
 	github.com/bytedance/sonic v1.10.2 // indirect
